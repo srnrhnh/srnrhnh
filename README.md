@@ -1,6 +1,6 @@
 # **Serina Roihaanah Mulawati**
 
-## **Hi there, and welcome to my GitHub!👋**
+**Hi there, and welcome to my GitHub!👋**
 
 I'm Serina Roihaanah Mulawati, a **Data Enthusiast** passionate about uncovering insights from data and building meaningful projects. With a solid foundation in **Statistics**, hands-on experience in the financial and retail sectors, and advanced training from Hacktiv8’s Data Science Bootcamp, I enjoy using data to solve complex problems and make informed decisions that bring value to businesses. 
 
