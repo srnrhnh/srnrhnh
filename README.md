@@ -25,25 +25,20 @@ I'm Serina Roihaanah Mulawati, a **Data Enthusiast** passionate about uncovering
 
 ### 🛠 **Key Skills**  
 
-- **Programming**: Python, SQL  
-- **Data Analysis & Visualization**: Tableau, Pandas, Matplotlib, Seaborn  
+- **Programming**: Python, SQL, R, C++ 
+- **Data Analysis & Visualization**: Looker Studio, Tableau, Pandas, NumPy, Ms.Excel, Matplotlib, Seaborn, Kibana  
 - **Database Management**: MySQL, PostgreSQL  
-- **Machine Learning**: Predictive Modeling, Clustering, Sentiment Analysis, and NLP  
-- **Other Expertise**: Data Wrangling, A/B Testing, ETL Pipelines, Business Intelligence Dashboards  
-
+- **Machine Learning & Deep Learning**: Predictive Modeling, Clustering, Sentiment Analysis, Computer Vision, and NLP  
 
 ### 🎓 **Education**  
-
-- **Hacktiv8 Data Science Bootcamp**  
-  *What I Learned*: Data Preprocessing, Visualization, Machine Learning, NLP, Deep Learning, SQL, A/B Testing, and Advanced Statistical Analysis  
-
 - **Bachelor’s Degree in Statistics**  
   *Key Topics*: Regression Analysis, Probability and Hypothesis Testing, Data Modeling, and Statistical Programming  
 
+- **Hacktiv8 Data Science Bootcamp**  
+  *What I Learned*: Data Aalysis, Data Preprocessing, Visualization, Machine Learning, NLP, Deep Learning, SQL, and Advanced Statistical Analysis  
+
 ---
 
-Thank you for visiting my GitHub! Feel free to check out my projects or reach out if you’re interested in collaborating—I’d love to work together on exciting data challenges!  
+Thank you for visiting my GitHub! Feel free to check out my projects or reach out if you’re interested in collaborating. I’d love to work together on exciting data challenges!  
 
 💻 Let's build something amazing together!
-
---- 
