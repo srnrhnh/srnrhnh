@@ -2,7 +2,7 @@
 
 **Hi there, and welcome to my GitHub!👋**
 
-I'm Serina Roihaanah Mulawati, a **Data Enthusiast** passionate about uncovering insights from data and building meaningful projects. With a solid foundation in **Statistics**, hands-on experience in the financial and retail sectors, and advanced training from Hacktiv8’s Data Science Bootcamp, I enjoy using data to solve complex problems and make informed decisions that bring value to businesses. 
+I'm Serina Roihaanah Mulawati, a **Data Enthusiast** who loves working with data to uncover meaningful insights and contribute to impactful projects. With a background in **Statistics** and advanced training from Hacktiv8’s Data Science Bootcamp, I’m continuously learning and growing. I’m excited about using data to solve problems and support businesses in making informed decisions.
 
 ---
 
@@ -16,7 +16,7 @@ I'm Serina Roihaanah Mulawati, a **Data Enthusiast** passionate about uncovering
 - **[Supermarket Sales Report](https://github.com/your-repo)**: Insights and recommendations from sales data.  
 
 ### 📫 **Get in Touch**
-- **LinkedIn**: [Connect with me](www.linkedin.com/in/serina-roihaanah-mulawati)  
+- **LinkedIn**: [Serina Roihaanah Mulawati](www.linkedin.com/in/serina-roihaanah-mulawati)  
 - **Email**: serinaroihaanahmulawati@gmail.com   
 
 ---
@@ -32,7 +32,7 @@ I'm Serina Roihaanah Mulawati, a **Data Enthusiast** passionate about uncovering
 
 ### 🎓 **Education**  
 - **Bachelor’s Degree in Statistics**  
-  *Key Topics*: Regression Analysis, Probability and Hypothesis Testing, Data Modeling, and Statistical Programming  
+  *Key Topics*: Regression Analysis, Time Series, Probability and Hypothesis Testing, Data Modeling, and Statistical Programming  
 
 - **Hacktiv8 Data Science Bootcamp**  
   *What I Learned*: Data Aalysis, Data Preprocessing, Visualization, Machine Learning, NLP, Deep Learning, SQL, and Advanced Statistical Analysis  
