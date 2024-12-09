@@ -12,8 +12,8 @@ I'm Serina Roihaanah Mulawati, a **Data Enthusiast** who loves working with data
 - 📚 Storytelling with Data  
 
 ### 🌟 Featured Projects:
-- **[PhonAlytics](https://github.com/your-repo)**: Sentiment analysis on phone reviews using NLP.  
-- **[Supermarket Sales Report](https://github.com/your-repo)**: Insights and recommendations from sales data.  
+- **[E-Commerce Analysis](https://github.com/srnrhnh/E-commerce-Analysis-and-Tableau)**: Insights and recommendations from sales data.  
+- **[Hotel Customer Prediction](https://github.com/srnrhnh/Hotel-Customer-Prediction)**: Predict whether a hotel customer will cancel their reservation.  
 
 ### 📫 **Get in Touch**
 - **LinkedIn**: [Serina Roihaanah Mulawati](www.linkedin.com/in/serina-roihaanah-mulawati)  
