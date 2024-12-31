@@ -14,6 +14,9 @@ I'm Serina Roihaanah Mulawati, a **Data Enthusiast** who loves working with data
 ### 🌟 Featured Projects:
 - **[E-Commerce Analysis](https://github.com/srnrhnh/E-commerce-Analysis-and-Tableau)**: Insights and recommendations from sales data.  
 - **[Hotel Customer Prediction](https://github.com/srnrhnh/Hotel-Customer-Prediction)**: Predict whether a hotel customer will cancel their reservation.  
+- **[Car-vs-Bike-Classifier-CNNCar-vs-Bike-Classifier-CNN](https://github.com/srnrhnh/Car-vs-Bike-Classifier-CNN)**: Classify vehicle images into two categories: cars and bikes.
+- **[NoSQL-DataPipeline-KibanaNoSQL-DataPipeline-Kibana](https://github.com/srnrhnh/NoSQL-DataPipeline-Kibana)**: Automate data extraction, cleaning, and loading into Elasticsearch with visualization in Kibana.
+
 
 ### 📫 **Get in Touch**
 - **LinkedIn**: [Serina Roihaanah Mulawati](www.linkedin.com/in/serina-roihaanah-mulawati)  
